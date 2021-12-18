@@ -1,5 +1,12 @@
 {
   "name": "strongstart-public-site",
+  "description": "StrongStart Public Site",
+  "keywords": [
+    "strongstart",
+    "public",
+    "site"
+  ],
+  "author": "StrongStart",
   "version": "1.0.0",
   "scripts": {
     "start": "npx webpack server --open",
